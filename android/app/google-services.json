@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433004096238",
+    "project_id": "bajar-97eab",
+    "storage_bucket": "bajar-97eab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433004096238:android:d9aec47f22d20507ab21ff",
+        "android_client_info": {
+          "package_name": "com.example.fbserviceauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD-gJ3Akb7CrFLWKvJ2FdKrv-nZQ74rlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
